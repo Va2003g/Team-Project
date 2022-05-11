@@ -563,10 +563,10 @@
         </div>
         <div class="box">
             <h3>branch locations</h3>
-            <a href="#">india</a>
-            <a href="#">USA</a>
-            <a href="#">japan</a>
-            <a href="#">france</a>
+            <a href="https://www.google.com/maps/place/India/@20.0127399,64.4523598,4z/data=!3m1!4b1!4m5!3m4!1s0x30635ff06b92b791:0xd78c4fa1854213a6!8m2!3d20.593684!4d78.96288">india</a>
+            <a href="https://www.google.com/maps/place/United+States/@36.2112513,-113.7181688,4z/data=!3m1!4b1!4m5!3m4!1s0x54eab584e432360b:0x1c3bb99243deb742!8m2!3d37.09024!4d-95.712891">USA</a>
+            <a href="https://www.google.com/maps/place/Japan/@32.1721874,119.0312408,4z/data=!3m1!4b1!4m5!3m4!1s0x34674e0fd77f192f:0xf54275d47c665244!8m2!3d36.204824!4d138.252924">japan</a>
+            <a href="https://www.google.com/maps/place/France/@46.1313653,-2.4362227,6z/data=!3m1!4b1!4m5!3m4!1s0xd54a02933785731:0x6bfd3f96c747d9f7!8m2!3d46.227638!4d2.213749">france</a>
         </div>
         <div class="box">
             <h3>quick links</h3>
