@@ -169,7 +169,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $60.00 <span>$120.00</span> </div>
+                <div class="price"> $90.00 <span>$120.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -186,7 +186,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $70.00 <span>$140.00</span> </div>
+                <div class="price"> $90.00 <span>$120.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -203,7 +203,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $90.00 <span>$180.00</span> </div>
+                <div class="price"> $90.00 <span>$120.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -220,7 +220,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $100.00 <span>$200.00</span> </div>
+                <div class="price"> $90.00 <span>$120.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -237,7 +237,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $85.00 <span>$170.00</span> </div>
+                <div class="price"> $90.00 <span>$120.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -254,7 +254,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $95.00 <span>$190.00</span> </div>
+                <div class="price"> $90.00 <span>$120.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -434,8 +434,8 @@
             <div class="swiper-slide">
                 <div class="box">
                     <img src="images/pic1.png" alt="">
-                    <h3>john deo</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa adipisci quisquam sunt nesciunt fugiat odit minus illum asperiores dolorum enim sint quod ipsam distinctio molestias consectetur ducimus beatae, reprehenderit exercitationem!</p>
+                    <h3>Darren Paterson</h3>
+                    <p>Deals always tend to be hard to beat on travel online. We've booked with them for years for this reason. On this occasion, it took a long while (many days) on a few occasions for travel online to return phone calls, we had to chase them up, and some minor details were incorrect on itineraries received (we had to make an adjustments which lengthened the process). Overall I would book again and recommend on the basis the deals are hard to pass up.</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -448,8 +448,10 @@
             <div class="swiper-slide">
                 <div class="box">
                     <img src="images/pic2.png" alt="">
-                    <h3>john deo</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa adipisci quisquam sunt nesciunt fugiat odit minus illum asperiores dolorum enim sint quod ipsam distinctio molestias consectetur ducimus beatae, reprehenderit exercitationem!</p>
+                    <h3>Trena Kennedy</h3>
+                    <p>TravelOnline was a great company to deal with.
+                        Everything was very simple, professional and we were given all the information we required.
+                        Thank you for the great service</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -462,8 +464,8 @@
             <div class="swiper-slide">
                 <div class="box">
                     <img src="images/pic3.png" alt="">
-                    <h3>john deo</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa adipisci quisquam sunt nesciunt fugiat odit minus illum asperiores dolorum enim sint quod ipsam distinctio molestias consectetur ducimus beatae, reprehenderit exercitationem!</p>
+                    <h3>Lyndal Nankervis</h3>
+                    <p>I had to change my booking due to covid and I know your team was under the pump but I was always reassured and knew my booking was being looked after. We will definitely book other holidays through travel online.</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -476,8 +478,8 @@
             <div class="swiper-slide">
                 <div class="box">
                     <img src="images/pic4.png" alt="">
-                    <h3>john deo</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa adipisci quisquam sunt nesciunt fugiat odit minus illum asperiores dolorum enim sint quod ipsam distinctio molestias consectetur ducimus beatae, reprehenderit exercitationem!</p>
+                    <h3>Nancy Filocamo</h3>
+                    <p>Just want to say that I am very happy using Travelonline to book my holidays at Crown Perth. I have recommended to 3 other couples and they have used Travelonline as well to book staying at Perth Crown. I will be using Travelonline soon this month to book my holidays again in December at Perth Crown. Keep up the grat work and you will be hearing from me soon Cheers and Happy New Year!!!</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
