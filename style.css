@@ -20,14 +20,14 @@
 }
 
 html{
-  font-size: 62.5%;
+  font-size: 70.5%;
   overflow-x: hidden;
   scroll-padding-top: 6rem;
   scroll-behavior: smooth;
 }
 
 section{
-  padding:2rem 9%;
+  padding:3rem 9%;
 }
 
 .heading{
@@ -40,7 +40,7 @@ section{
   background:rgba(255, 165, 0,.2);
   color:var(--orange);
   border-radius: .5rem;
-  padding:.2rem 1rem;
+  padding:.2rem 2rem;
 }
 
 .heading span.space{
@@ -59,7 +59,7 @@ section{
 }
 
 .btn:hover{
-  background:rgba(255, 165, 0,.2);
+  background:rgba(275, 160, 0,.5);
   color:var(--orange);
 }
 
