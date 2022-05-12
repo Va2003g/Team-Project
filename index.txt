@@ -169,7 +169,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $90.00 <span>$120.00</span> </div>
+                <div class="price"> $60.00 <span>$120.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -186,7 +186,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $90.00 <span>$120.00</span> </div>
+                <div class="price"> $70.00 <span>$140.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -203,7 +203,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $90.00 <span>$120.00</span> </div>
+                <div class="price"> $90.00 <span>$180.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -220,7 +220,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $90.00 <span>$120.00</span> </div>
+                <div class="price"> $100.00 <span>$200.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -237,7 +237,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $90.00 <span>$120.00</span> </div>
+                <div class="price"> $85.00 <span>$170.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
@@ -254,7 +254,7 @@
                     <i class="fas fa-star"></i>
                     <i class="far fa-star"></i>
                 </div>
-                <div class="price"> $90.00 <span>$120.00</span> </div>
+                <div class="price"> $95.00 <span>$190.00</span> </div>
                 <a href="#" class="btn">book now</a>
             </div>
         </div>
