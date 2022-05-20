@@ -1,4 +1,5 @@
 // Fetching all the important items
+
 let searchBtn = document.querySelector('#search-btn');
 let searchBar = document.querySelector('.search-bar-container');
 let formBtn = document.querySelector('#login-btn');
@@ -44,10 +45,10 @@ videoBtn.forEach(btn =>{
 });
 
 var swiper = new Swiper(".review-slider", {
-    spaceBetween: 20,
+    spaceBetween: 19,
     loop:true,
     autoplay: {
-        delay: 2500,
+        delay: 250,
         disableOnInteraction: false,
     },
     breakpoints: {
@@ -67,7 +68,7 @@ var swiper = new Swiper(".brand-slider", {
     spaceBetween: 20,
     loop:true,
     autoplay: {
-        delay: 2500,
+        delay: 2560,
         disableOnInteraction: false,
     },
     breakpoints: {
